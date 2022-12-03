@@ -1,4 +1,5 @@
 syntax on
 
 " Wrap gitcommit file types at the appropriate length
+inoremap jk <Esc>
 filetype indent plugin on
